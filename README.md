@@ -14,7 +14,7 @@
 ---
 
 ### 🧩 技术栈
-![Go](https://img.shields.io/badge/Go-1.22-blue?logo=go)
+![Go](https://img.shields.io/badge/Go-1.23-blue?logo=go)
 ![C++](https://img.shields.io/badge/C++-17-blue?logo=cplusplus)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql)
 ![Redis](https://img.shields.io/badge/Redis-Caching-red?logo=redis)
