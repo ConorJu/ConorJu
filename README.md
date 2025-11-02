@@ -1,9 +1,3 @@
-# 👋 Conor Chen
-
-> 🧑‍💻 Backend Developer | Go & C++ | Building reliable, high-performance systems
-
----
-
 ### 💻 我的语言比例
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConorJu&layout=compact&theme=tokyonight&langs_count=8&hide=html,css)
 
