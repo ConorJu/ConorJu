@@ -1,13 +1,13 @@
-### 💻 我的语言比例
+### Proportion of development languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConorJu&layout=compact&theme=tokyonight&langs_count=8&hide=html,css)
 
-### 📈 GitHub 活跃度
+### GitHub activity
 ![Conor's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConorJu&show_icons=true&theme=tokyonight&count_private=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=ConorJu&theme=tokyonight&hide_border=true)
 
 ---
 
-### 🧩 技术栈
+### Technology stack
 ![Go](https://img.shields.io/badge/Go-1.23-blue?logo=go)
 ![C++](https://img.shields.io/badge/C++-17-blue?logo=cplusplus)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql)
@@ -19,7 +19,7 @@
 
 
 
-### 🕒 活跃记录
+### Active record
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ConorJu&theme=tokyo-night)
 
 
